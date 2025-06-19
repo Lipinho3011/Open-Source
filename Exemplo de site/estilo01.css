@@ -1,0 +1,116 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+   margin: 0; 
+   font-family: Noto Sans,sans-serif;
+}
+
+.mainlogin{
+    width: 100vw;
+    height: 100vh;
+    background: #01415B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.leftlogin{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+}
+
+.leftlogin > h1{
+    color: #CCEA8D;
+    font-size: 50px;
+}
+.leftimage{
+    width: 25vw;
+}
+
+.rigthlogin{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cardlogin{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px 90px;
+    background: #023549;
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px #04574e;
+}
+
+.cardlogin > h1{
+    color: #A6BC09;
+    font-weight: 800;
+    margin: 0;
+    font-size: 50px;
+}
+
+.texto{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 10px;
+}
+
+.texto > label{
+    color: #f0ffffde;
+    margin-bottom: 15px;
+}
+
+
+
+div > input{
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    background: #02425c;
+    color: #f0ffffde;
+    font-size: 12pt;
+    box-shadow: 0px 10px 40px #00000056;
+    outline: none;
+    box-sizing: border-box;
+}
+
+
+.div > input::placeholder{
+    color: #f0ffff94;
+}
+
+
+.btnentrar{
+    width: 100%;
+    padding: 16px 0px;
+    margin: 25px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 3px;
+    color: #01415B;
+    background: #A6BC09;
+    cursor: pointer;
+    box-shadow: 0px 10px 40px -12px #707e07;
+}
+.btnentrar::hover{
+    background: #8b9c08;
+}
+
