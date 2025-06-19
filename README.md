@@ -38,7 +38,7 @@ Possuo uma doença chamada **"Doença de Cronh"**, ela causa inflamações por t
 Mas relaxa que **tem tratamento**, ele diminui minha imunidade para isso justamente não acontecer, assim me deixando bem! 😎
 
 ## Rede Social
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-c-399060274/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipecm30/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:filipecostamonte@gmail.com)
 
 # English version
 
@@ -71,6 +71,9 @@ I have a condition called **"Crohn's Disease"**, which causes inflammation throu
 It happens because my immune system attacks my own body's cells — more precisely, the gastrointestinal cells.
 Yeah, my body fights with itself 😥
 But don’t worry, **there is treatment**, which lowers my immunity so that this doesn’t happen, keeping me well! 😎
+
+## Social Media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-c-399060274/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipecm30/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:filipecostamonte@gmail.com)
 
 ## Graphics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipinho3011&theme=transparent&bg_color=042940&border_color=DBF227&show_icons=true&icon_color=005C53&title_color=9FC131&text_color=FFF)
